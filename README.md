@@ -12,6 +12,6 @@
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
 - 💬 Ask me about **Android Dev, Web Tech and Books**
 - 📫 How to reach me: **septiyadi@mhs.pelitabangsa.ac.id**
-- 🎯 I’m focusing on **Build Apps, Solve and Fix & Learn Flutter Mobile Dev**
+- 🎯 I’m focusing on **Build Apps, Solve and Fix & Learn Flutter Mobile Dev, Android Java or Kotlin**
 <br />
 2021 © Copyright GuzzleCode. All right reserved.
