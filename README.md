@@ -2,10 +2,10 @@
 
 ### Coding Entusiast
 
-[![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/septiady/guzzlecode) 
-[![Repos Badge](https://badges.pufler.dev/repos/guzzlecode)](https://github.com/septiady?tab=repositories)
+[![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/septiady/septiady) 
+[![Repos Badge](https://badges.pufler.dev/repos/septiady)](https://github.com/septiady?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/septiady/MySQL-Database)
-<a> <img src="https://komarev.com/ghpvc/?username=guzzlecode&label=Profile%20views&color=00ff00&style=flat-circle" alt="septiady" /> </a>
+<a> <img src="https://komarev.com/ghpvc/?username=septiady&label=Profile%20views&color=00ff00&style=flat-circle" alt="septiady" /> </a>
 <br /><br />
 - 🔭 I’m currently working on my **Android Projects**
 - 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with Dart - Flutter)**
