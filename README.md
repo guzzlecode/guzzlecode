@@ -1,4 +1,4 @@
-## Hi, Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My GitHub
+## Hi, Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> to My GitHub
 
 ### Coding Entusiast
 
@@ -14,4 +14,4 @@
 - 📫 How to reach me: **septiyadi@mhs.pelitabangsa.ac.id**
 - 🎯 I’m focusing on **Build Apps, Solve and Fix & Learn Flutter Mobile Dev, Android Java or Kotlin**
 <br />
-2021 © Copyright GuzzleCode. All right reserved.
+2021 © Copyright Asep Septiadi. All right reserved.
