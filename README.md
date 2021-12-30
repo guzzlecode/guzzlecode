@@ -8,7 +8,7 @@
 <a> <img src="https://komarev.com/ghpvc/?username=septiady&label=Profile%20views&color=00ff00&style=flat-circle" alt="septiady" /> </a>
 <br /><br />
 - 🔭 I’m currently working on my **Android Projects**
-- 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with Dart - Flutter)**
+- 🧠 I am currently learning **Data structures and algorithms, Mobile apps with Dart - Flutter)**
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
 - 💬 Ask me about **Android Dev, Web Tech and Books**
 - 📫 How to reach me: **septiyadi@mhs.pelitabangsa.ac.id**
